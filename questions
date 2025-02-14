@@ -14,3 +14,8 @@ Ex. 8:
 
 Lorsqu'elle est pertinente, sa présence permet de prévenir des fautes de frappe et ainsi d'éviter les exception.
 Dans ce cas nous pouvons donc nous en dispenser mais c'est mieux de le mettre.
+
+Ex. 10:
+
+L'appel de super.getPuissance(FrequenceCoupsDePedale) dans la méthode VeloElec.getPuissane() signifie que getPuissance (la méthode extraite de la classe mère) est appelé avec l'argument FrequenceCoupsDePedale.
+
