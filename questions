@@ -1,0 +1,16 @@
+Ex. 5: Que signifie "redéfinir une méthode" ? 
+
+Cela siginfie modifier la méthode de la classe mère pour qu'elle s'adapte à la classe fille.
+
+Ex. 6: Quelles méthodes de Velo et VeloElec sont redéfinies ?
+
+Les méthodes qui ont étaient redéfinie dans Velo et VeloElec sont toString et getPuissance.
+
+Ex. 7: Que signifie l'annotation @Override, placée parfois avant la définition d'une méthode ?
+
+Cela indique au compilateur que la méthode a été redéfini.
+
+Ex. 8: 
+
+Lorsqu'elle est pertinente, sa présence permet de prévenir des fautes de frappe et ainsi d'éviter les exception.
+Dans ce cas nous pouvons donc nous en dispenser mais c'est mieux de le mettre.
